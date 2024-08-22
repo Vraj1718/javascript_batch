@@ -25,17 +25,6 @@ do{
     b++;
 }while(b<=100)
 
-
-// print odd number between 1.100
-
-// console.log();
-// let x=1;
-
-// while(x<=100){
-//     console.log(x);
-//     x+=2;
-// }
-
 // print odd number between 1.100
 console.log();
 
@@ -70,5 +59,14 @@ for(i=1;i<=100;i++){
     if(i%5 == 0 && i%3 ==0 && i%7 == 0){
         console.log(i);
     }
+}
+
+
+ console.log();
+ let x=1;
+
+while(x<=100){
+    console.log(x);
+    x+=2;
 }
 
